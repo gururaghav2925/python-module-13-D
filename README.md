@@ -22,6 +22,7 @@ To write a Python program that takes a prefix expression from the user and evalu
 
 6.Display the result.
 
+
 ## Program:
 ```python
 OPERATORS=set(['*','-','+','%','/','**']) 
@@ -58,7 +59,7 @@ The program evaluates the given prefix expression using stack operations and dis
 ![image](https://github.com/user-attachments/assets/a45b389b-a6e5-4af4-b2ea-a55864338084)
 ![image](https://github.com/user-attachments/assets/8f570420-447e-4c92-88f7-3e672c963a8c)
 
-
+[python 13.pdf](https://github.com/user-attachments/files/19650058/python.13.pdf)
 
 
 
