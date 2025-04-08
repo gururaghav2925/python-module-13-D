@@ -1,5 +1,5 @@
 
-## Python Program to Evaluate Prefix Expression Using Stack
+## Evaluate Prefix Expression Using Stack
 
 ## Aim:
 To write a Python program that takes a prefix expression from the user and evaluates it using a stack.
